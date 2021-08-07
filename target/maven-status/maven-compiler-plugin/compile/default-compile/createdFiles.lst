@@ -1,0 +1,4 @@
+Westpac\Welcome.class
+Westpac\WelcomeRepository.class
+Westpac\WelcomeService.class
+Westpac\WelcomeEndpoint.class
